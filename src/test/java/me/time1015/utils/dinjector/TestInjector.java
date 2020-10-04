@@ -1,4 +1,6 @@
-package io.se7en.utils.dinjector;
+package me.time1015.utils.dinjector;
+
+import me.time1015.utils.dinjector.Injector;
 
 final class TestInjector extends Injector {
   private final Object toReturn;

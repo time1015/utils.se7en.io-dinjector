@@ -1,3 +1,3 @@
-module io.se7en.utils.dinjector {
-  exports io.se7en.utils.dinjector;
+module me.time1015.utils.dinjector {
+  exports me.time1015.utils.dinjector;
 }

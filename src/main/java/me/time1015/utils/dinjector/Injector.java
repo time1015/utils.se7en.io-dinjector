@@ -1,4 +1,4 @@
-package io.se7en.utils.dinjector;
+package me.time1015.utils.dinjector;
 
 import java.util.Optional;
 

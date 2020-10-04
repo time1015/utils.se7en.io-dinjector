@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.se7en.utils</groupId>
+  <groupId>me.time1015.utils</groupId>
   <artifactId>dinjector</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
